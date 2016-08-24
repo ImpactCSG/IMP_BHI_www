@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+html, body, #subnav, #main_nav { font-family :'Open Sans', Helvetica, Arial, sans-serif; }
+#main_nav ul li, #subnav ul li { font-size:12px; }
+#nav_arrow { position:absolute; bottom:0; left:0; }
+#subnav, div.arrow-right { zoom:1; *display: inline; }
+#subnav ul li { margin:0 7px; }
+div.arrow-right { top:-7px; left:3px; }
+ul.login { padding-right:20px; }

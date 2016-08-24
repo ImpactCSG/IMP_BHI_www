@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+html, body, #subnav, #main_nav { font-family :'Open Sans', Helvetica, Arial, sans-serif; }
+
+#main_nav ul li, #subnav ul li { font-size:12px; }
+#subnav ul li { margin:0 5px; }
